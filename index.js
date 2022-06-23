@@ -1,4 +1,4 @@
-require('dotenv').config();
+// require('dotenv').config();
 const {channel, sites, interval}  = require('./config.json');
 const {Client} = require('discord.js');
 const fetch = require('node-fetch');
