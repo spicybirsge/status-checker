@@ -1,0 +1,25 @@
+{
+  "name": "status-checker-bot",
+  "version": "1.0.0",
+  "description": "- Status checker is a discord bot that will check your sites statuses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spicybirsge/status-checker-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spicybirsge/status-checker-bot/issues"
+  },
+  "homepage": "https://github.com/spicybirsge/status-checker-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1",
+    "node-fetch": "^2.6.1"
+  }
+}
