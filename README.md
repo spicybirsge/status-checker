@@ -11,4 +11,5 @@
 5. Add your interval (in milliseconds).
 6. Customize the message and stuff, this is just a basic template you can do whatever you want with it!
 7. Add an env variable called "token" with its value to be your discord bot token.
-8. Have fun!
+8. Run `node index.js`
+9. Have fun!
